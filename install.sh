@@ -2,7 +2,7 @@
 
 set -e
 
-SOURCE_URL="https://raw.githubusercontent.com/YOUR_USERNAME/words-of-wisdom/main"
+SOURCE_URL="https://raw.githubusercontent.com/illiusterka/words-of-wisdom/main"
 
 INSTALL_DIR="$HOME/.local/bin"
 CONFIG_DIR="$HOME/.config"
