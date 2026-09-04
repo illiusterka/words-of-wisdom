@@ -37,7 +37,6 @@ module = '''    // BEGIN WORDS-OF-WISDOM
     {
       "type": "command",
       "key": "Wisdom",
-      "keyColor": "yellow",
       "text": "words-of-wisdom"
     },
     // END WORDS-OF-WISDOM
