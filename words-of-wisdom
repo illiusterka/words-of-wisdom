@@ -1,7 +1,3 @@
 #!/bin/bash
 
-quotes="$HOME/.config/words-of-wisdom.list"
-
-[[ -f "$quotes" ]] || exit 0
-
-shuf -n 1 "$quotes"
+printf '"%s"\n' "$(shuf -n1 ~/.config/words-of-wisdom.list)"
